@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on web developement field
-- 📫 How to reach me 6206375474
+- 📫 How to reach me ayushshoundik26@gmail.com
 
 <!---
 Ayushgit51/Ayushgit51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
