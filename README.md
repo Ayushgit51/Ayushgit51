@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Ayush
-- 👀 I’m interested in MERN stack development. 
-- 🌱 I’m currently learning frontend development.
-- 💞️ I’m looking to collaborate on frontend development.
+- 💻 Web Developer | Problem Solver | Tech Enthusiast
+
+🔹 Skilled in HTML, CSS, JavaScript, Java, C#, C++
+🔹 Learning Web Development & exploring new technologies
+🔹 Solved 170+ LeetCode problems 🏆
+🔹 Passionate about building projects & improving algorithms
+
+🚀 Currently working on Web Development projects
+📌 Always open to collaboration & new opportunities
 - 📫 How to reach me ayushshoundik26@gmail.com.
 
 <!---
